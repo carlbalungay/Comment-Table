@@ -1,2 +1,2 @@
-How to Run the appliocation to pull on this repo onto your machine
+How to Run the application to pull on this repo onto your machine
 
