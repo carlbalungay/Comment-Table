@@ -4,14 +4,23 @@ To clone the files onto your machine start by creating an empty folder anywhere,
 
 <img width="866" height="618" alt="image" src="https://github.com/user-attachments/assets/4d87d376-acec-4d7d-a6e7-956f2f981f3a" />
 
+open command prompt and change the directory to the folder you just made:
 
-once you have the link, open command prompt and type:
+<img width="209" height="26" alt="image" src="https://github.com/user-attachments/assets/ec42e07f-3445-43d6-981f-95db79c53edf" />
+
+
+In the folder using the link you copied earlier, open command prompt and type:
 
 `git clone` + the link (add a space between clone and the link)
 
-once you have it on your machine, open command prompt and change the directory to the folder it was saved in e.g:
+and if sucessful you should see this:
 
-<img width="334" height="23" alt="image" src="https://github.com/user-attachments/assets/c3f1ef0b-8e4d-411c-9406-5241632deb38" />
+<img width="641" height="117" alt="image" src="https://github.com/user-attachments/assets/d3831da9-0868-4f0d-ab63-067ab7962677" />
+
+once you have it on your machine, change the directory to the folder "Comment-Table":
+
+<img width="160" height="16" alt="image" src="https://github.com/user-attachments/assets/3401eb62-6f49-43ef-a3ad-b5afdc1e56f7" />
+
 
 then install the dependancies in command prompt using:
 
